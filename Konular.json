@@ -5,30 +5,31 @@
 {
   "KonuIcerikBaslik" : "Temel Kavramlar",
   
-  "KonuIceirkDetay" : "Rakam, Sayı
+  "KonuIceirkDetay" : "-Rakam, Sayı-
 Sayıları yazmak için kullanılan sembollere rakam denir. Bir çokluğu belirtmen için bir veya birden fazla rakamla yazılan ifadeye sayı denir.
 
 Kullandığımız 10’luk sayı sisteminde rakamlar 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 olmak üzere 10 adettir.
 
 1923, 100, 5 ve 81 birer sayıdır.
 
-Doğal Sayılar 
+-Doğal Sayılar-
 N = { 0, 1, 2, 3, 4, … } kümesine doğal sayılar kümesi denir ve ” N “ harfi ile isimlendirilir.
 
 -Sayma Sayıları-
 Sadece nesneleri saymaya yarayan sayılardır. 1, 2, 3, 4, … diye ilerlerler ve bitmezler. Bir sonu yoktur sonsuzlardır.
 
-Tam Sayılar 
+-Tam Sayılar-
 Z = { …, −3, −2, −1, 0, 1, 2, 3, … } kümesine tam sayılar kümesi denir ve ” Z “ harfi ile isimlendirilir.
 
 0’dan küçük tam sayılara negatif tam sayılar denir ve  Z−  ile gösterilir. Z− = { −1, −2, −3, … }
 0’dan büyük tam sayılara pozitif tam sayılar denir ve  Z+ ile gösterilir. Z+ = { 1, 2, 3, …}
 
-Z = Z− ∪ {0} ∪ Z+"
+Z = Z− ∪ {0} ∪ Z+ 
+"
 },
 {
   "KonuIceirkBaslik" : "Sayi Basamaklari"
-  "KonuIcerikDetay" : "Sayı Basamağı
+  "KonuIcerikDetay" : "-Sayı Basamağı-
 Bir doğal sayıda rakamların her birinin bulunduğu yere basamak denir. Rakamların bulunduğu basamağa göre aldığı değere basamak değeri denir. Rakamların gösterdiği değere ise o rakamın sayı değeri denir. Sayılar basamak sayılarına göre isimlendirilir.
 
 – İki basamaklı doğal sayılar ab şeklinde
