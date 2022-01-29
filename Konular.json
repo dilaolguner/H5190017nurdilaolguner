@@ -12,10 +12,10 @@ Kullandığımız 10’luk sayı sisteminde rakamlar 0, 1, 2, 3, 4, 5, 6, 7, 8, 
 
 1923, 100, 5 ve 81 birer sayıdır.
 
-Doğal Sayılar
+Doğal Sayılar 
 N = { 0, 1, 2, 3, 4, … } kümesine doğal sayılar kümesi denir ve ” N “ harfi ile isimlendirilir.
 
-Sayma Sayıları
+-Sayma Sayıları-
 Sadece nesneleri saymaya yarayan sayılardır. 1, 2, 3, 4, … diye ilerlerler ve bitmezler. Bir sonu yoktur sonsuzlardır.
 
 Tam Sayılar 
@@ -63,7 +63,7 @@ Ondalık Kesirlerle Toplama-Çıkarma İşlemleri
 Ondalık kesirler toplanırken, virgüller alt alta gelecek şekilde yazılır ve doğal sayılarda toplama – çıkarma işleminde olduğu gibi toplama – çıkarma işlemi yapılır. Sonuç, virgüllerin hizasından virgülle ayrılır.
 0,36 + 0,86 = 1,22     0,89 – 0,25 + 0,96 = 1,6
 Ondalık Kesirlerle Çarpma-Bölme İşlemleri
-Çarpma: Ondalık kesirlerin çarpımı yapılırken, virgül yokmuş gibi çarpma işlemi yapılır. Sonuç, çarpılan sayıların virgülden sonraki basamak sayılarının toplamı kadar, sağdan sola doğru virgülle ayrılır.
+Çarpma:Ondalık kesirlerin çarpımı yapılırken, virgül yokmuş gibi çarpma işlemi yapılır. Sonuç, çarpılan sayıların virgülden sonraki basamak sayılarının toplamı kadar, sağdan sola doğru virgülle ayrılır.
 Bölme: Ondalık kesirlerin bölme işlemi yapılırken, bölen virgülden kurtulacak biçimde 10 un kuvveti ile çarpılır. Bölünen de aynı 10 un kuvveti ile çarpılarak bölme işlemi yapılır.
 
   "
