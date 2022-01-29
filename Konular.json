@@ -3,7 +3,7 @@
 {
   "kucukLogo" : "https://b.kisscc0.com/20180705/pre/kisscc0-education-abstract-art-computer-icons-mathematics-numbers-frame-vortex-5b3deb515cbd99.4302276815307845933799.png",
   
-  "KonuBasligi" : "Temel Kavramlar",
+  "KonuBasligi" : "'<h1>'Temel Kavramlar'</h1>'",
   
   "KonuIcerikKisa" : "Tek ve Çift sayılar, Sayı Kümeleri, Pozitif ve Negatif sayılar ve Toplama ve Çarpma"   
 
@@ -13,35 +13,68 @@
   
 {
   "kucukLogo" : "https://matematikproblemi.com/Content/Sorular/5720-1.svg",
-  "KonuBasligi" : "Sayı Basamakları",
+  "KonuBasligi" : "'<h1>'Sayı Basamakları'</h1>'",
   "KonuIcerikKisa" : "Çözümleme, Taban"
 },
   
   
 {
   "kucukLogo" : "https://www.pngkey.com/png/full/123-1230078_numeros-ensembles-des-nombres-rels.png",
-  "KonuBasligi" : "Rasyonel Sayılar",
+  "KonuBasligi" : "'<h1>'Rasyonel Sayılar'</h1>'",
   "KonuIcerikKisa" : "KonuIcerikKisa, Çözümleme, Taban"
 },
   
   
 {
   "kucukLogo" : "https://img2.pngindir.com/20180316/ote/kisspng-decimal-desimaaliluku-fraction-clip-art-decimal-number-cliparts-5aabb68fa2ef63.8655629615212028316674.jpg",
-  "KonuBasligi" : "Ondalıklı Sayılar",
+  "KonuBasligi" : "'<h1>'Ondalıklı Sayılar'</h1>'",
   "KonuIcerikKisa" :"Toplama-Çıkarma İşlemleri, Çarpma-Bölme İşlemleri"
 },
   
   
 {
   "kucukLogo" : "https://matematikproblemi.com/Content/Konular/8778-4.svg",
-  "KonuBasligi" : "Basit Eşitsizlikler",
+  "KonuBasligi" : "'<h1>'Basit Eşitsizlikler'</h1>'",
   "KonuIcerikKisa" : "Tanım, Basit Eşitsizliklerin Özellikleri"
 },
   
   
 {
   "kucukLogo" : "https://ipfs.io/ipfs/QmQP99yW82xNKPxXLroxj1rMYMGF6Grwjj2o4svsdmGh7S/out/I/m/Absolute_value.svg.png",
-  "KonuBasligi" : "Mutlak Değer",
+  "KonuBasligi" : "'<h1>'Mutlak Değer'</h1>'",
   "KonuIcerikKisa" : "Özellikleri, Denklemler, Eşitsizlikler"
+},
+  {
+		"kapakResmiUrl": "https://w0.peakpx.com/wallpaper/207/329/HD-wallpaper-complex-maths-amor-bands-forever-formula-formulas-frases-love-rock-word-words.jpg"
+	},
+	{
+		"KonuIcerikBaslik": "'<h1>'Temel Kavramlar'</h1>'",
+
+		"KonuIcerikDetay": "'<h1>'Rakam, Sayı'</h1>' Sayıları yazmak için kullanılan sembollere rakam denir.'\n' Bir çokluğu belirtmen için bir veya birden fazla rakamla yazılan ifadeye sayı denir. Kullandığımız 10’luk sayı sisteminde rakamlar 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 olmak üzere 10 adettir. 1923, 100, 5 ve 81 birer sayıdır.'\n' -Doğal Sayılar- N = ( 0, 1, 2, 3, 4, … ) kümesine doğal sayılar kümesi denir ve ” N “ harfi ile isimlendirilir. '\n''<h1>'-Sayma Sayıları-'</h1>' '\n'Sadece nesneleri saymaya yarayan sayılardır. 1, 2, 3, 4, … diye ilerlerler ve bitmezler. Bir sonu yoktur sonsuzlardır. '\n''<h1>'-Tam Sayılar-'</h1>''\n' Z = { …, −3, −2, −1, 0, 1, 2, 3, … } kümesine tam sayılar kümesi denir ve ” Z “ harfi ile isimlendirilir.'\n' 0’dan küçük tam sayılara negatif tam sayılar denir ve  Z−  ile gösterilir.'\n' Z− = { −1, −2, −3, … } '\n'0’dan büyük tam sayılara pozitif tam sayılar denir ve  Z+ ile gösterilir. '\n'Z+ = ( 1, 2, 3, …)  Z = Z− ∪ (0) ∪ Z+ "
+	},
+
+{
+  "KonuIcerikBaslik" : "'<h1>'Sayi Basamaklari'</h1>'",
+  "KonuIcerikDetay" : "'<h1>'Sayı Basamağı'</h1>''\n' Bir doğal sayıda rakamların her birinin bulunduğu yere basamak denir. Rakamların bulunduğu basamağa göre aldığı değere basamak değeri denir. Rakamların gösterdiği değere ise o rakamın sayı değeri denir.'\n' Sayılar basamak sayılarına göre isimlendirilir.'\n' – İki basamaklı doğal sayılar ab şeklinde – Üç basamaklı sayılar abc şeklinde'\n' – Dört basamaklı sayılar abcd şeklinde gösterilir. '\n'Bir doğal sayıda kaç tane rakam varsa sayı o kadar basamaklıdır. '\n'Örneğin: 243 üç basamaklı bir sayıdır. Çözümleme Doğal sayıyı oluşturan rakamların bulunduğu yerdeki değerine basamak değeri denir. Basamak değerlerinin toplamına o sayının çözümlenmiş biçimi denir.'\n' ab = 10 . a + b abc = 100 . a + 10 . b + c aaa = 111 . a ab + ba = 11 . (a + b) ab – ba = 9 . (a – b) abc – cba = 99 . (a – c) abcd = cd + 100 . ab = bcd + 1000 . a"
+},
+
+{
+  "KonuIcerikBaslik" : "'<h1>'Rasyonel Sayılar'</h1>'",
+  "KonuIcerikDetay" : "'<h1>'Rasyonel Sayılar'</h1>''\n' a ve b tam sayı, b  0’dan farklı  olmak üzere  a/b şeklinde yazılabilen sayılara rasyonel sayılar veya kesir denir.'\n' '<h1>'Kesir Çeşitleri'</h1>' '\n'İşaretine bakılmaksızın payı paydasından küçük olan kesirlere basit kesir denir.'\n' İşaretine bakılmaksızın payı paydasından küçük olmayan (büyük veya eşit olan) kesirlere bileşik kesir denir.'\n' Bileşik kesirler tam sayılı kesir diye de adlandırılabilir. '\n'Tam sayılır kesir, önde tam sayı olan kesirdir. Herhangi bir sayma sayısı ile birlikte yazılabilen kesirlere tam sayılı kesir denir. '\n'5/10 = 0,5     28/100 = 0,28     36/1000 = 0,036 '\n'Ondalık Kesirlerle Toplama-Çıkarma İşlemleri'\n' Ondalık kesirler toplanırken, virgüller alt alta gelecek şekilde yazılır ve doğal sayılarda toplama – çıkarma işleminde olduğu gibi toplama – çıkarma işlemi yapılır. Sonuç, virgüllerin hizasından virgülle ayrılır.'\n' 0,36 + 0,86 = 1,22     0,89 – 0,25 + 0,96 = 1,6 '\n'Ondalık Kesirlerle Çarpma-Bölme İşlemleri'\n' Çarpma:Ondalık kesirlerin çarpımı yapılırken, virgül yokmuş gibi çarpma işlemi yapılır. Sonuç, çarpılan sayıların virgülden sonraki basamak sayılarının toplamı kadar, sağdan sola doğru virgülle ayrılır. '\n'Bölme: Ondalık kesirlerin bölme işlemi yapılırken, bölen virgülden kurtulacak biçimde 10 un kuvveti ile çarpılır. Bölünen de aynı 10 un kuvveti ile çarpılarak bölme işlemi yapılır."
+},
+
+{
+  "KonuIcerikBaslik" : "'<h1>'Ondalıklı Sayılar'</h1>'",
+  "KonuIcerikDetay" : "'<h1>'Ondalık Kesir'</h1>' '\n'Paydası 10,100,1000…. gibi 10’un pozitif kuvvetleri olan kesirlere ondalık kesir denir. '\n'Ondalık kesirlere karşı gelen virgüllü sayılara ondalık sayı denir."
+},
+{
+  "KonuIcerikBaslik" : "'<h1>'Basit Eşitsizlikler'</h1>'",
+  "KonuIcerikDetay" : "'<h1>'Tanım'</h1>''\n'a < b , a > b , a ≤ b , a ≥ b şeklindeki ifadeler eşitsizlik olarak adlandırılır.'\n'Gerçel (reel) sayı ekseninde (sayı doğrusu) herhangi bir sayının sağında bulunan sayılar daima o sayıdan büyük, solunda bulunan sayılar da o sayıdan küçüktür. '\n''<h1>'Basit Eşitsizliklerin Özellikleri'</h1>''\n'1.Bir eşitsizliğin her iki tarafına aynı sayı eklenip çıkartılabilir. Bu eşitsizliğin yönünü değiştirmez. '\n' Her iki tarafa aynı sayıyı eklersek a + c < b + c '\n'Yani 5 < 7 iken 5 + 4 < 7 + 4 yani 9<11 olur. '\n'2.Eşitsizliğin her iki tarafı da pozitif bir sayı ile çarpılırsa veya bölünürse, bu eşitsizlik yön değiştirmez. '\n'a > b iken ve c >0 iken a.c > b.c’dir. '\n'3. Bir eşitsizliğin her iki tarafı negatif bir sayıyla çarpılır veya bölünürse, eşitsizlik yön değiştirir. '\n'a<b iken ve c<0 iken a.c > b.c’dir. '\n'4. Yönü aynı olan eşitsizlikler taraf tarafa toplanabilir. '\n'a<b ve c<d iken '\n'a + c < b + d olabilir. '\n'5. 0 < a < b iken a<b , 1/a >1/b '\n'6. Zıt işaretli sayılardan oluşan eşitsizliklerin çarpma işlemine göre tersi alındığında eşitsizlik yön değiştirmez. '\n'a < 0 < b iken a<b , 1/a < 1/b '\n'7. a ve b birer pozitif reel sayı ve x pozitif tam sayı olmak üzere ; '\n'0 < a <b iken a^x < b^x '\n'8. a ve b negatif birer sayı ve x pozitif bir tam sayı olduğunda; '\n'a < b < 0, x tek ise, a^x < b^x '\n'x çift ise,  a^x > b^x olur. '\n'9. 0 ve 1 arasındaki pozitif ve basit olan kesirlerin kuvveti arttıkça sayının değeri de azalır. '\n'a^2 > a ise 0 < a < 1 olur. '\n'10.a^3 > a  ise a< -1 ya da 0 < a < 1 olur."
+},
+
+{
+	"KonuIcerikBaslik": "'<h1>'MutlakDeger'</h1>'",
+	"KonuIcerikDetay": "'\n''<h1>'MUTLAK DEĞER NEDİR?'</h1>' '\n' Bir gerçek sayının sayı doğrusundaki yerinin başlangıç noktasına(sıfıra) olan uzaklığına o sayının mutlak değeri denir.x gerçek sayısının mutlak değeri | x | şeklinde gösterilir. '\n' 6 ve− 6 sayısının 0’ a olan uzaklığı 6 birimdir.Bu durum sembolle | 6 | = 6 ve | −6 | = 6 şeklinde gösterilir. '\n''<h1>' MUTLAK DEĞERİN ÖZELLİKLERİ'</h1>' '\n' x, y∈ R olmak üzere; '\n' 1) | x | ≥0 '\n' Bir gerçek sayının mutlak değeri 0’ a eşit ya da 0’ dan büyüktür. '\n' 2) | x.y | = | x | . | y | '\n' Çarpım durumundaki iki gerçek sayının mutlak değeri bu sayıların mutlak değerlerinin çarpımına eşittir. '\n' 3) y≠ 0 olmak üzere: | xy |= | x || y | '\n' Bölüm durumundaki iki gerçek sayının mutlak değeri bu sayıların mutlak değerlerinin bölümüne eşittir. '\n' 4) | x | = | −x | '\n' Biri diğerinin− 1 katı olan iki gerçek sayının mutlak değeri birbirine eşittir. '\n' 5) n∈ Z olmak üzere: | xn | = | x | n '\n' Bir gerçek sayının pozitif tam sayı kuvvetinin mutlak değeri, mutlak değerinin aynı kuvvetine eşittir. '\n' 6) | x + y | ≤ | x | + | y | '\n' İki gerçek sayının toplamının mutlak değeri sayıların ayrı ayrı mutlak değerlerinin toplamından küçük veya eşittir. "
+
 }
 ]
